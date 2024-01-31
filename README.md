@@ -46,7 +46,7 @@ i learn a lot more about html and css, and still looking forard to learn more
 
 ### Continued development
 
-I want to learn more about how to set the @media screen well and i need a mentor, i dont mind if anyone can teach me well but i did this project myself
+I want to learn more about how to set the @media screen well and i need a mentor, i dont mind if anyone can teach me well but i did this project myself and i also tried linking the screenshot but did work pls check the live site and give reviews thank you so much.
 
 
 ## Author
