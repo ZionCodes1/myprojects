@@ -24,7 +24,7 @@ it is to build this Simple Omelette page
 
 ### Screenshot
 
-![](./solution-screenshot.jpeg)
+![](./images/Screenshot_recipe.jpeg)
 
 
 ### Links
